@@ -1,5 +1,3 @@
-# Cyberbullying-Tweet-Recognition-App https://cyberbullying-tweet-recognition-jayant-verma.streamlit.app/
-
 This project involved analyzing tweets. 
 
 By understanding the words involved in the tweet, we are going to predict whether a tweet is a cyberbullying tweet or not and if it is a cyberbullying tweet then predicting nature of the cyberbullying into 6 Categories:
@@ -46,4 +44,4 @@ non-utf characters, Numbers, punctuations, stopwords
 
 * Deployment Platform : Streamlit
 
-* Kaggle : https://lnkd.in/dTe7PCqx
+* Kaggle : https://www.kaggle.com/mohammadrizwansajjad
